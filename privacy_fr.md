@@ -1,4 +1,4 @@
-todoREAD IN ENGLISH:
+READ IN ENGLISH:
 https://raw.githubusercontent.com/gri38/pylactere_play_store/refs/heads/main/privacy_en.md
 
 POLITIQUE DE CONFIDENTIALITE
