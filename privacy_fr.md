@@ -1,26 +1,26 @@
-READ IN ENGLISH:
-https://raw.githubusercontent.com/gri38/pylactere_play_store/refs/heads/main/privacy_en.md
+# Politique de confidentialité
 
-POLITIQUE DE CONFIDENTIALITE
+[Read in English](https://github.com/gri38/pylactere_play_store/blob/main/privacy_en.md)
 
-Derniere mise a jour : 14 mai 2026
+**Dernière mise à jour : 14 mai 2026**
 
-Cette application ne collecte, ne stocke, ne partage et ne revend aucune donnee personnelle des utilisateurs.
+Cette application ne collecte, ne stocke, ne partage et ne revend aucune donnée personnelle des utilisateurs.
 
-Aucune donnee personnelle n'est transmise a des serveurs externes par l'application. L'application n'utilise pas de service d'analyse, de publicite, de suivi utilisateur, ni de SDK tiers destine a collecter des donnees personnelles.
+Aucune donnée personnelle n’est transmise à des serveurs externes par l’application.  
+L’application n’utilise pas de service d’analyse, de publicité, de suivi utilisateur, ni de SDK tiers destiné à collecter des données personnelles.
 
-DONNEES COLLECTEES
+## Données collectées
 
-Aucune donnee personnelle n'est collectee.
+Aucune donnée personnelle n’est collectée.
 
-PARTAGE DES DONNEES
+## Partage des données
 
-Aucune donnee personnelle n'est partagee avec des tiers.
+Aucune donnée personnelle n’est partagée avec des tiers.
 
-VENTE DES DONNEES
+## Vente des données
 
-Aucune donnee personnelle n'est vendue.
+Aucune donnée personnelle n’est vendue.
 
-SECURITE
+## Sécurité
 
-Comme l'application ne collecte ni ne stocke aucune donnee personnelle, aucune donnee personnelle utilisateur n'est conservee par l'editeur.
+Comme l’application ne collecte ni ne stocke aucune donnée personnelle, aucune donnée personnelle utilisateur n’est conservée par l’éditeur.
